@@ -1,1 +1,0 @@
-# KrishiSathi---AI-powered-Agriculture
