@@ -2,4 +2,4 @@ streamlit
 numpy>=1.26
 pandas
 Pillow
-tensorflow==2.13.0
+tensorflow cpu
